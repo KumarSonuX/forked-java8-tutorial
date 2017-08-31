@@ -4,7 +4,7 @@ import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.util.concurrent.atomic.AtomicInteger;
 import java.util.stream.IntStream;
-// Change to branch-LR
+// Change to branch-LR again
 /**
  * @author Benjamin Winterberg
  */
